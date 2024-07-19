@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/levko-test/static/css/main.27d27a0e.css",
+    "main.js": "/levko-test/static/js/main.03f18213.js",
+    "static/js/453.103bc649.chunk.js": "/levko-test/static/js/453.103bc649.chunk.js",
+    "static/media/logo.svg": "/levko-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/levko-test/index.html",
+    "main.27d27a0e.css.map": "/levko-test/static/css/main.27d27a0e.css.map",
+    "main.03f18213.js.map": "/levko-test/static/js/main.03f18213.js.map",
+    "453.103bc649.chunk.js.map": "/levko-test/static/js/453.103bc649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d27a0e.css",
+    "static/js/main.03f18213.js"
+  ]
+}
